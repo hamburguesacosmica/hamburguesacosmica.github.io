@@ -1,0 +1,52 @@
+body
+{
+    border-left: 20%;
+    border-right: 20%;
+}
+
+header
+{
+   margin-left: 20%;
+   margin-right: 20%;
+}
+
+main
+{
+   height: 500px; 
+}
+
+img
+{
+   float: left;
+}
+
+.Descripcion
+{
+   font-style: oblique;
+}
+
+.Certificaciones
+{
+   font-style: oblique;
+   background-color: aquamarine;
+}
+
+.Contacto
+{
+   color:rgb(80, 59, 7);
+}
+#Contacto
+{
+   margin-left: 20%;
+   margin-right: 20%;
+   background-color: rgb(186, 236, 120);
+}
+a
+{
+   color: blueviolet;
+   background-color: bisque;
+}
+#Cabecera a
+{
+   background-color: rgb(255, 255, 255);
+}
